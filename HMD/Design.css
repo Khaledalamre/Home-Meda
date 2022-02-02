@@ -1,0 +1,70 @@
+﻿body {
+    background-color: #400270;
+    background-size: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.log {
+    background-color: #e2d8ed;
+    position: absolute;
+    width: 380px;
+    height: 550px;
+    top: 150px;
+    left: 150px;
+    border-radius: 6px;
+}
+
+.user {
+    position: relative;
+    left: 62px;
+    top: 0px;
+    width: 250px;
+    height: 40px;
+    border-radius: 8px;
+}
+
+.sup {
+    position: relative;
+    left: 26px;
+    top: 12px;
+    width: 250px;
+    height: 40px;
+    border-radius: 8px;
+    color: white;
+    background-color: #400270;
+}
+
+h1 {
+    position: relative;
+    text-align: center;
+    font-family: Cursive;
+    font-size: 50px;
+    color: #400270;
+    top: 3px;
+    left: 3px;
+}
+
+p {
+    text-align: center;
+    position: relative;
+    color: #400270;
+    font-size: 30px;
+    font-family: Sans-serif;
+}
+
+.forgot {
+    position: relative;
+    right: 35px;
+    top: 10px;
+    font-size: 20px;
+}
+.Rgstr {
+    background-color: #e2d8ed;
+    position: absolute;
+    width: 528px;
+    height: 693px;
+    top: 26px;
+    left: 155px;
+    border-radius: 6px;
+}
